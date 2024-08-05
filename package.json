@@ -1,0 +1,4 @@
+{
+  "name": "yarn-peers-warning",
+  "workspaces": ["./packages/*"]
+}
