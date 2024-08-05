@@ -1,4 +1,7 @@
 {
   "name": "yarn-peers-warning-4-2",
-  "workspaces": ["./packages/*"]
+  "workspaces": [
+    "./packages/*"
+  ],
+  "packageManager": "yarn@4.2.2"
 }
