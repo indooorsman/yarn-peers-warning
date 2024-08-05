@@ -1,4 +1,4 @@
 {
-  "name": "yarn-peers-warning",
+  "name": "yarn-peers-warning-4-2",
   "workspaces": ["./packages/*"]
 }

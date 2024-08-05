@@ -1,0 +1,6 @@
+{
+  "name": "package-a",
+  "peerDependencies": {
+    "react": "*"
+  }
+}
